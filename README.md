@@ -12,5 +12,10 @@ Jag laddade ner det som excelfil som jag sedan transformerade i Power Query. Jag
 # Upplägg
 Det består av 6 sidor, där första sidan egentligen är som ett omslag med tabellen och lite text. Sista sidan är en sammanställning på all data. Varje årtal 2020, 2021, 2022, 2023 tilldelas sina egna sidor med detaljeraded insikter om data från dessa år.
 
+# Utdrag
+<img width="1105" height="615" alt="Skärmbild 2025-10-24 133330" src="https://github.com/user-attachments/assets/cd47d43d-797d-442f-a54f-89ce5433c0cc" />
+<img width="985" height="597" alt="Skärmbild 2025-10-24 133310" src="https://github.com/user-attachments/assets/50cd9696-bc7f-4f86-8478-694068e542f2" />
+
+
 # Slutsats
 Kvinnor inom dessa yrken har ökat med ca 23% sedan 2022, men värt att notera att från 2020 till 2021 gjordes en ökning på 6% som sedan föll till 2% för varje år efter. 
